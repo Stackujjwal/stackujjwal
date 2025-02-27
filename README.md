@@ -1,6 +1,4 @@
-### Hi there, I'm [Your Name] 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat)
+### Hi there, I'm Ujjwal Yadav 👋
 
 ---
 
