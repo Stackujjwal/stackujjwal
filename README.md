@@ -62,5 +62,5 @@
 
 ### 📈 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=stacksahil&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stacksahil&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stackujjwal&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stackujjwal&layout=compact&theme=radical)
